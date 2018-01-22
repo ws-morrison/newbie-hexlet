@@ -1,5 +1,6 @@
 body {
-  font-family: 'Roboto Slab', serif;
+
+  font-family: 'Roboto Mono', monospace;
   font-size: 16px;
   margin: 0 auto;
   /* center content */
@@ -23,6 +24,7 @@ li {
   color: #2f2f2f;
 }
 h1, h2, h3 {
+  font-family: 'Roboto Slab', serif;
   font-weight: 400;
   margin-bottom: 0px;
 }
