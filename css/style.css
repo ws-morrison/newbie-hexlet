@@ -1,5 +1,5 @@
 body {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto Slab', serif;
   font-size: 16px;
   margin: 0 auto;
   /* center content */
@@ -17,8 +17,11 @@ a {
 p {
   margin-bottom: 12px;
   font-weight: 300;
+  color: #2f2f2f;
 }
-
+li {
+  color: #2f2f2f;
+}
 h1, h2, h3 {
   font-weight: 400;
   margin-bottom: 0px;
